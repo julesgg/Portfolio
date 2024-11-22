@@ -40,12 +40,6 @@ export interface ContactInfo {
   website: string;
 }
 
-export interface Skills {
-  languages: string[];
-  frameworks: string[];
-  databases: string[];
-  tools: string[];
-}
 
 export interface Project {
   title: string;
@@ -63,7 +57,6 @@ export interface WorkExperience {
   role: string;
   startDate: string;
   endDate: string;
-  technologies: string[];
   keyResponsibilities: string[];
 }
 
@@ -76,30 +69,12 @@ export interface Education {
   endDate: string;
 }
 
-export interface Testimonial {
-  id: string;
-  name: string;
-  avatar: string;
-  title: string;
-  company: string;
-  feedback: string;
-}
-
-export interface Certification {
-  title: string;
-  institution: string;
-  date: string;
-}
 
 export interface Data {
   personalInfo: PersonalInfo;
   contactInfo: ContactInfo;
-  skills: Skills;
   projects: Project[];
   workExperience: WorkExperience[];
   education: Education[];
-  certifications: Certification[];
-  hobbies: string[];
-  testimonials: Testimonial[];
   visual: Visual;
 }

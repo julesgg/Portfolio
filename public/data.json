@@ -13,15 +13,9 @@
         {
           "label": "Education",
           "path": "#education"
-        },
-        {
-          "label": "Testimonials",
-          "path": "#testimonials"
-        },
-        {
-          "label": "Blogs",
-          "path": "#blogs"
         }
+        
+       
       ]
     },
     "home": {
@@ -35,122 +29,118 @@
     }
   },
   "personalInfo": {
-    "name": "Arif Hossain",
-    "title": "Full Stack Developer",
-    "location": "Dhaka, Bangladesh",
-    "bio": "I am a passionate full-stack developer with a strong background in building modern, scalable web applications. Lets collaborate andbring your ideas to life."
+    "name": "Jules Gueguen",
+    "title": "Creative Technologist Student",
+    "bio": "I am a Master’s student in Creative Technology at the IFT, pursuing a dual 'Engineer-Manager' degree at ESILV and EMLV. I am passionate about sustainable innovation and leveraging technology to enhance sports and health."
   },
   "contactInfo": {
-    "email": "devarifhossain@gmail.com",
-    "phone": "123-456-7890",
-    "linkedin": "https://www.linkedin.com/in/ariflogs/",
-    "github": "https://github.com/ariflogs",
-    "twitter": "https://twitter.com/ariflogs",
-    "website": "https://johndoe.dev"
+    "email": "jules.gueguen@live.fr",
+    "linkedin": "https://www.linkedin.com/in/jules-gueguen-811573291/"
   },
-  "skills": {
-    "languages": ["JavaScript", "Python", "Java", "C++"],
-    "frameworks": ["React", "Node.js", "Express", "Django", "Spring Boot"],
-    "databases": ["MySQL", "MongoDB", "PostgreSQL"],
-    "tools": ["Git", "Docker", "Kubernetes", "Jenkins", "AWS", "GCP"]
-  },
+
   "projects": [
     {
       "id": "1",
-      "title": "Makers Tracker",
-      "description": "A project goal tracking tool for professionals. It let's you create project, assign goals and generate analytics to track progress",
-      "technologies": ["Typescript", "Next.js", "TailwindCSS", "MySQL"],
-      "live_url": "https://makerstracker.com",
-      "code_repo_url": "https://makerstracker.com",
-      "cover": "/assets/project_1.jpeg"
+      "title": "The First Recyclable Kiteboard",
+      "description": "'Forever' is the first fully recyclable kiteboard. The goal was to design a board that respects the environment while maintaining optimal performance. We used eco-responsible materials and developed a manufacturing process incorporating a new resin technology that can be dissolved at the end of its life, allowing the different materials to be separated and recycled under specific conditions. This new manufacturing method paves the way for a more eco-conscious practice of kitesurfing as well as other board sports (skateboarding, wakeboarding, surfing, etc.)",
+      "technologies": ["Innovation", "Eco-material", "Recyclable", "Kitesurfing"],
+      "live_url": "https://www.esilv.fr/majeure-creative-technology-forever-la-planche-100-recyclable-de-kitesurf/",
+      "cover": "/assets/kite2.jpg"
     },
     {
       "id": "2",
-      "title": "Pricing Bees",
-      "description": "A no-code pricing page builder. Build professional-looking pricing pages, customize looks, and get detailed analytics to optimize your pricing strategy.",
-      "technologies": ["Typescript", "Next.js", "Shadcn/ui", "Convex"],
-      "live_url": "https://pricingbees.com",
-      "code_repo_url": "https://pricingbees.com",
-      "cover": "/assets/project_2.jpeg"
+      "title": "Kickstarter Campaign",
+      "description": "Koloburo is an innovative cable organizer made from recycled leather, designed to keep your chargers within reach and spare you the hassle of searching for them. By sticking it to your desk or bedside table, you can insert up to five chargers and enjoy easy access to your cables. Koloburo combines style and practicality while supporting eco-friendly practices and local manufacturing. We spent six months developing prototypes and preparing the funding campaign and its communication, ultimately achieving 678% funding compared to the initial goal.",
+      "technologies": ["Crowdfunding", "Product development", "Manufacturing", "Creative thinking"],
+      "live_url": "https://www.kickstarter.com/projects/koloburo/quickstarter-koloburo-leather-cable-management-device?ref=discovery&term=koloburo&total_hits=1&category_id=28",
+      "cover": "/assets/kickstarter.png"
     },
     {
       "id": "3",
-      "title": "Indie Hustles",
-      "description": "A listing site for Indie hackers to promote their products",
-      "technologies": ["Typescript", "Next.js", "TailwindCSS", "Airtable"],
-      "live_url": "https://indiehustles.com",
-      "code_repo_url": "https://indiehustles.com",
-      "cover": "/assets/project_3.jpeg"
+      "title": "Neurosense Sports Helmet",
+      "description": "The Neurosense Sports Helmet is a smart helmet designed to detect and alert in the event of violent impacts in contact sports. Equipped with an integrated pressure sensor, it measures the force of shocks and sends an audible signal when the danger threshold is exceeded, allowing for quick intervention to protect the health of athletes. This system could also assist healthcare professionals by providing accurate data on impacts.",
+      "technologies": ["Safety engineering", "Impact detection", "Embedded electronics", "Human-centered design"],
+      "live_url": "https://ift.devinci.fr/neurosense",
+      "cover": "/assets/helmet.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Recycled Interactive Lamp",
+      "description": "During the first week of my Master's program in 'Creative Technology', we undertook an express project aiming to create an innovative interactive lamp using various manufacturing techniques. Over the course of five days, we designed a lamp from an old book that activates the light upon opening and closing. The electronic system features three LEDs—red, green, and blue—each controllable with a dimmer switch, allowing users to create their own custom color shades.",
+      "technologies": ["Rapid prototyping", "Creative project", "Interactive design", "Sustainable design"],
+      "cover": "/assets/lampe.jpg"
     }
   ],
   "workExperience": [
     {
       "id": "1",
-      "company": "Tech Corp",
-      "companyWebsite": "https://example.com",
-      "role": "Senior Full Stack Developer",
-      "startDate": "Jan 2020",
-      "endDate": "Present",
+      "company": "Imerys",
+      "companyWebsite": "https://www.imerys.com/fr",
+      "role": "Project Manager Intern in Continuous Improvement",
+      "startDate": "Apr 2024",
+      "endDate": "Aug 2024",
       "technologies": ["Socket.io", "Node.js", "Express", "React"],
-      "keyResponsibilities": [
-        "Led a team of developers to create scalable web applications.",
-        "Implemented RESTful and GraphQL APIs using Node.js and Express.",
-        "Developed front-end applications using React and Next.js.",
-        "Integrated third-party services and APIs to enhance application functionality.",
-        "Mentored junior developers and conducted code reviews."
+      "keyResponsibilities": 
+      [
+        "Deployment of the 'fabriq' software to digitize and standardize industrial processes:",
+        "Created the project deployment plan (budget, risks, change management)",
+        "Configured and populated the software, KPI and dashboard creation",
+        "Trained 80 employees (workers and managers) and provided daily support"
       ]
     },
     {
       "id": "2",
-      "company": "Web Solutions",
-      "companyWebsite": "https://example.com",
-      "role": "Full Stack Developer",
-      "startDate": "Jun 2017",
-      "endDate": "Dec 2019",
+      "company": "West Wake Park",
+      "companyWebsite": "https://www.westwakepark.fr/",
+      "role": "Cable ski operator Intern",
+      "startDate": "jun 2022",
+      "endDate": "Aug 2022",
       "technologies": ["MongoDB", "Express", "React", "Node.js"],
       "keyResponsibilities": [
-        "Designed and developed web applications using JavaScript and React.",
-        "Built and maintained server-side APIs with Node.js and Express.",
-        "Collaborated with cross-functional teams to deliver high-quality products.",
-        "Ensured applications are responsive and performant.",
-        "Participated in Agile ceremonies and contributed to project planning."
+        "Cable ski steering",
+        "Technical and mechanical management",
+        "Rider briefing and coaching"
+      ]
+    },
+    {
+      "id": "3",
+      "company": "Le Vivier",
+      "companyWebsite": "https://www.levivier-lomener.com/",
+      "role": "Waiter in a gourmet restaurant (Seasonal)",
+      "startDate": "jul 2018",
+      "endDate": "Aug 2021",
+      "technologies": ["MongoDB", "Express", "React", "Node.js"],
+      "keyResponsibilities": [
+        "Customer service",
+        "Order taking",
+        "Beverage preparation"
       ]
     }
   ],
   "education": [
     {
       "id": "1",
-      "institution": "Coursera",
-      "degree": "Full Stack Web Development with React",
-      "description": "Completed a Coursera specialization that focused on building full-stack web applications using React, Node.js, Express, and MongoDB. Learned best practices for designing and implementing responsive, scalable, and secure web applications.",
-      "startDate": "Sep 2013",
-      "endDate": "May 2017"
+      "institution": " ESILV | Ecole supérieure d’ingénieurs Léonard De Vinci, Paris La Défense",
+      "degree": "Master II - Creative Technology",
+      "description": "Innovation projects, Kickstarter campaign, computer sciences, scientific research, biological technology, mechanical and electronic design, soft skills",
+      "startDate": "2020",
+      "endDate": "2025"
     },
     {
       "id": "2",
-      "institution": "University of California, Berkeley",
-      "degree": "Bachelor of Science in Computer Science",
-      "description": "Completed a comprehensive curriculum in computer science, including courses in data structures, algorithms, software engineering, and artificial intelligence. Worked on several projects, including a web application for managing student organizations and a mobile app for tracking fitness activities.",
-      "startDate": "Sep 2013",
-      "endDate": "May 2017"
-    }
-  ],
-  "testimonials": [
-    {
-      "id": "1",
-      "name": "Jane Smith",
-      "avatar": "/assets/testimonial_1_avatar.jpg",
-      "title": "Project Manager",
-      "company": "Tech Solutions Inc.",
-      "feedback": "John is a fantastic developer who consistently delivers high-quality work. His ability to solve complex problems is impressive."
+      "institution": "EMLV | Ecole de Management Léonard De Vinci, Paris La Défense",
+      "degree": "Master II - Management, Marketing, Negotiation",
+      "description": "Marketing strategy, business negotiation, entrepreneurship, accounting",
+      "startDate": "2020",
+      "endDate": "2025"
     },
     {
-      "id": "2",
-      "name": "Mike Johnson",
-      "avatar": "/assets/testimonial_2_avatar.jpg",
-      "title": "CEO",
-      "company": "Web Innovators LLC",
-      "feedback": "John is a highly skilled developer who brings a lot of value to our projects. His expertise in full stack development is top-notch."
+      "id": "3",
+      "institution": "CAU | Chung Ang University, Seoul",
+      "degree": "Academic semester in South Korea",
+      "description": "Elementary Korean language, web development, object-oriented programming, applied, mathematics",
+      "startDate": "sept 2022",
+      "endDate": "dec 2022"
     }
   ]
 }
