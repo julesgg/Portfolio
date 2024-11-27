@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Portfolio | Jules Gueguen",
   description:
     "A clean looking portfolio presenting my experiences and my skills. Built with NextJS & TailwindCSS",
+    icons: {
+      icon: '/jLogo.ico', 
+    },
 };
 
 export default function RootLayout({
