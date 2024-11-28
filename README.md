@@ -51,6 +51,10 @@ Here is a breakdown of the project structure:
 - **`src/components/Header.js`**: Displays your name and navigation links.
 - **`styles/globals.css`**: Contains global styles and Tailwind CSS configuration.
 
+### Inspiration
+This portfolio was created using the template by [@ariflogs](https://github.com/ariflogs). I used the layout as a base and added my personal information along with some effects to customize the page.
+
+
 ## How to Run Locally
 
 To run this project on your local machine:
