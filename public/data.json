@@ -49,6 +49,14 @@
     },
     {
       "id": "2",
+      "title": "K'e-mono: The Smart Kimono for Judo",
+      "description": "Equipped with embedded pressure and motion sensors, this smart kimono provides insights into key aspects of judo techniques, such as grip, posture, and force distribution. This data-driven approach helps judokas and their coaches enhance performance and refine techniques. K’e-mono also integrates modular components, extending the product's lifespan and reducing its environmental impact.",
+      "technologies": ["E-Textile", "Connected Wearable", "Performance Analysis", "Sport Experience"],
+      "live_url": "https://kemono3d.netlify.app/",
+      "cover": "/assets/kimono.jpg"
+    },
+    {
+      "id": "3",
       "title": "Kickstarter Campaign",
       "description": "Koloburo is an innovative cable organizer made from recycled leather, designed to keep your chargers within reach and spare you the hassle of searching for them. By sticking it to your desk or bedside table, you can insert up to five chargers and enjoy easy access to your cables. Koloburo combines style and practicality while supporting eco-friendly practices and local manufacturing. We spent six months developing prototypes and preparing the funding campaign and its communication, ultimately achieving 678% funding compared to the initial goal.",
       "technologies": ["Crowdfunding", "Product development", "Manufacturing", "Creative thinking"],
@@ -56,7 +64,7 @@
       "cover": "/assets/kickstarter.png"
     },
     {
-      "id": "3",
+      "id": "4",
       "title": "Neurosense Sports Helmet",
       "description": "The Neurosense Sports Helmet is a smart helmet designed to detect and alert in the event of violent impacts in contact sports. Equipped with an integrated pressure sensor, it measures the force of shocks and sends an audible signal when the danger threshold is exceeded, allowing for quick intervention to protect the health of athletes. This system could also assist healthcare professionals by providing accurate data on impacts.",
       "technologies": ["Safety engineering", "Impact detection", "Embedded electronics", "Human-centered design"],
@@ -64,7 +72,7 @@
       "cover": "/assets/helmet.jpg"
     },
     {
-      "id": "4",
+      "id": "5",
       "title": "Recycled Interactive Lamp",
       "description": "During the first week of my Master's program in 'Creative Technology', we undertook an express project aiming to create an innovative interactive lamp using various manufacturing techniques. Over the course of five days, we designed a lamp from an old book that activates the light upon opening and closing. The electronic system features three LEDs—red, green, and blue—each controllable with a dimmer switch, allowing users to create their own custom color shades.",
       "technologies": ["Rapid prototyping", "Creative project", "Interactive design", "Sustainable design"],
